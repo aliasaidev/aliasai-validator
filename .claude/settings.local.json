@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(LC_ALL=C grep:*)",
+      "Bash(python3 -c:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
